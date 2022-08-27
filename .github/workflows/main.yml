@@ -2,7 +2,7 @@ name: A workflow for my Hello World file
 on: push
 jobs:
   build:
-    name: Hello world action
+    name: Mohan learning Github actions
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
